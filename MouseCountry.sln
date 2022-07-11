@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseCountry", "MouseCountry\MouseCountry.csproj", "{496F71D5-B142-4B38-A027-9E99EA23AAAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCServer", "MCServer\MCServer.csproj", "{646B2ABC-445C-4647-A140-32E2BE249434}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{496F71D5-B142-4B38-A027-9E99EA23AAAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{496F71D5-B142-4B38-A027-9E99EA23AAAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{496F71D5-B142-4B38-A027-9E99EA23AAAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{496F71D5-B142-4B38-A027-9E99EA23AAAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{646B2ABC-445C-4647-A140-32E2BE249434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{646B2ABC-445C-4647-A140-32E2BE249434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{646B2ABC-445C-4647-A140-32E2BE249434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{646B2ABC-445C-4647-A140-32E2BE249434}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D043FBE6-23EC-4FA7-A63B-CBC0F5C298F6}
+	EndGlobalSection
+EndGlobal
